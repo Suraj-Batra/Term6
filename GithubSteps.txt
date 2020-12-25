@@ -1,10 +1,19 @@
 Github
 
-1.Open Github.com and create an Account
-2.Verify account.
-3.Create a Repository on the Github.
-4.Install Github in your System.
-5.Clone the Remote Repository in the local machine
+1. Open Github.com and create an Account
+2. Verify account.
+3. Create a Repository on the Github.
+4. Install Github in your System.
+5. Clone the Remote Repository in the local machine
     $git clone <git-reository-address>
-	$git clone
-	https://github.com/Suraj1253/Term6.git
+	$git clone https://github.com/Suraj1253/Term6.git
+6.  $cd <reository-name>
+7. Check the status of the files
+   $ git status[To check the newly added file and modified
+   files]	
+8. Add the newly added and modified files in the reository
+   $ git add .|*
+9. Commit the changed to the local git
+   $ git commit-m "Added one file and modified .gitignore"
+10. To transfer the file from your local machine to the git-reository-address 
+    $ Git push

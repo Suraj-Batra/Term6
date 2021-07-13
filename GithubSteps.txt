@@ -14,6 +14,6 @@ Github
 8. Add the newly added and modified files in the reository
    $ git add .|*
 9. Commit the changed to the local git
-   $ git commit-m "Added one file and modified .gitignore"
+   $ git commit -m "Added one file and modified .gitignore"
 10. To transfer the file from your local machine to the git-reository-address 
     $ Git push
